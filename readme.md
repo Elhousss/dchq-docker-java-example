@@ -1,7 +1,7 @@
 To run & manage the **28** Java application templates in this project on 13 different clouds and virtualization platforms (including vSphere, OpenStack, AWS, Rackspace, Microsoft Azure, Google Compute Engine, DigitalOcean, IBM SoftLayer, etc.), make sure that you either:
 -   **Sign Up for FREE on DCHQ.io** -- <http://dchq.io> (no credit card required), or
 -   **Download DCHQ On-Premise Standard Edition for FREE** -- <http://dchq.co/dchq-on-premise-download.html>
--   **View all the published Docker Java application templates and many others** -- <https://www.dchq.io/landing/products.html#/library?org=DCHQ>
+-   **Customize & Run all the published Docker Java application templates and many others** -- [![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ)
 
 
 **Table of Contents**  
@@ -417,6 +417,8 @@ MySQL:
 
 ### 3-Tier Java (Nginx – Jetty – MySQL)
 
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e101514b8ddc2d697d)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 LB:
   image: nginx:latest
@@ -460,6 +462,8 @@ MySQL:
  
 
 ### 3-Tier Java (Nginx – JBoss – MySQL)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e101514b9014df69b1)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 LB:
@@ -505,6 +509,8 @@ MySQL:
 
 ### 2-Tier Java (WebSphere – MySQL)
 
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e101514b93e3ab6a77)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 AppServer:
   image: websphere-liberty:webProfile6
@@ -536,9 +542,11 @@ MySQL:
     - MYSQL_ROOT_PASSWORD={{alphanumeric|8}}
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-<http://pygments.org/>
+ 
 
 ### 3-Tier Java (Nginx – Tomcat – PostgreSQL)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e101514bbf6cb872db)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 LB:
@@ -584,6 +592,8 @@ Postgres:
 
 ### 3-Tier Java (Nginx – Jetty – PostgreSQL)
 
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e101514bc268ad7365)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 LB:
   image: nginx:latest
@@ -627,6 +637,8 @@ Postgres:
  
 
 ### 3-Tier Java (Nginx – JBoss – PostgreSQL)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e101514bc3373a7395)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 LB:
@@ -672,6 +684,8 @@ Postgres:
 
 ### 2-Tier Java (WebSphere – PostgreSQL)
 
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e101514bc4a86c73e9)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 AppServer:
   image: websphere-liberty:webProfile6
@@ -706,6 +720,8 @@ Postgres:
  
 
 ### 3-Tier Java (Nginx – Tomcat – Oracle-XE)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e101514be51c9c7a67)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 LB:
@@ -752,6 +768,8 @@ Oracle:
 
 ### 3-Tier Java (Nginx – Jetty – Oracle-XE)
 
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e101514c2466530645)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 LB:
   image: nginx:latest
@@ -795,6 +813,8 @@ Oracle:
  
 
 ### 3-Tier Java (Nginx – JBoss – Oracle-XE)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e101514c23b4c00610)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 LB:
@@ -840,6 +860,8 @@ Oracle:
 
 ### 2-Tier Java (WebSphere – Oracle-XE)
 
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e101514c262d7e069b)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 AppServer:
   image: websphere-liberty:webProfile6
@@ -874,6 +896,9 @@ Oracle:
  
 
 ### 3-Tier Java (Nginx – Tomcat – MariaDB)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e1015151af25a8760d)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 LB:
   image: nginx:latest
@@ -917,6 +942,9 @@ MariaDB:
  
 
 ### 3-Tier Java (Nginx – Jetty – MariaDB)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e1015155d0fdc729bc)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 LB:
   image: nginx:latest
@@ -960,6 +988,9 @@ MariaDB:
  
 
 ### 3-Tier Java (Nginx – JBoss – MariaDB)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e1015155d1eca129f9)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 LB:
   image: nginx:latest
@@ -1003,6 +1034,9 @@ MariaDB:
  
 
 ### 2-Tier Java (WebSphere – MariaDB)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e1015155d1795129e6)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 AppServer:
   image: websphere-liberty:webProfile6
@@ -1037,6 +1071,9 @@ MariaDB:
  
 
 ### 3-Tier Java (ApacheHTTP – Tomcat – MySQL)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e10151562a98123993)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 HTTP-LB:
   image: httpd:latest
@@ -1080,6 +1117,9 @@ MySQL:
  
 
 ### 3-Tier Java (ApacheHTTP – Jetty – MySQL)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e10151563144c73aca)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 HTTP-LB:
   image: httpd:latest
@@ -1123,6 +1163,9 @@ MySQL:
  
 
 ### 3-Tier Java (ApacheHTTP – JBoss – MySQL)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e10151562c890139f4)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 HTTP-LB:
   image: httpd:latest
@@ -1166,6 +1209,9 @@ MySQL:
  
 
 ### 3-Tier Java (ApacheHTTP – Tomcat – PostgreSQL)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e10151562ceb453a12)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 HTTP-LB:
   image: httpd:latest
@@ -1209,6 +1255,9 @@ Postgres:
  
 
 ### 3-Tier Java (ApacheHTTP – Jetty – PostgreSQL)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e10151562b5a9e39b5)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 HTTP-LB:
   image: httpd:latest
@@ -1252,6 +1301,9 @@ Postgres:
  
 
 ### 3-Tier Java (ApacheHTTP – JBoss – PostgreSQL)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e10151563299393b0c)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 HTTP-LB:
   image: httpd:latest
@@ -1295,6 +1347,9 @@ Postgres:
  
 
 ### 3-Tier Java (ApacheHTTP – Tomcat – Oracle-XE)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e101515634ee4b3b5a)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 HTTP-LB:
   image: httpd:latest
@@ -1339,6 +1394,9 @@ Oracle:
  
 
 ### 3-Tier Java (ApacheHTTP – Jetty – Oracle-XE)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e101515635760c3b72)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 HTTP-LB:
   image: httpd:latest
@@ -1382,6 +1440,9 @@ Oracle:
  
 
 ### 3-Tier Java (ApacheHTTP – JBoss – Oracle-XE)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e10151563602bc3b99)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 HTTP-LB:
   image: httpd:latest
@@ -1425,6 +1486,9 @@ Oracle:
  
 
 ### 3-Tier Java (ApacheHTTP – Tomcat – MariaDB)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e1015154e61e5800c6)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 HTTP-LB:
   image: httpd:latest
@@ -1468,6 +1532,9 @@ MariaDB:
  
 
 ### 3-Tier Java (ApacheHTTP – Jetty – MariaDB)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e10151562a1c033986)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 HTTP-LB:
   image: httpd:latest
@@ -1511,6 +1578,9 @@ MariaDB:
  
 
 ### 3-Tier Java (ApacheHTTP – JBoss – MariaDB)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e1015156291f713964)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 HTTP-LB:
   image: httpd:latest
