@@ -5,7 +5,6 @@ To run & manage the **28** Java application templates in this project on 13 diff
 [![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ)
 
  
-
 Customize & Run all the published Docker Java application templates and many other templates (including multi-tier LAMP, LAPP, & LAOP stacks, Mongo Replica Set Cluster, Drupal, Wordpress, MEAN.JS, etc.)
 
 
