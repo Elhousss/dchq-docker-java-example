@@ -1,6 +1,7 @@
 To run & manage the **28** Java application templates in this project on 13 different clouds and virtualization platforms (including vSphere, OpenStack, AWS, Rackspace, Microsoft Azure, Google Compute Engine, DigitalOcean, IBM SoftLayer, etc.), make sure that you either:
 -   **Sign Up for FREE on DCHQ.io** -- <http://dchq.io> (no credit card required), or
 -   **Download DCHQ On-Premise Standard Edition for FREE** -- <http://dchq.co/dchq-on-premise-download.html>
+-   **View all the published Docker Java application templates and many others** -- <https://www.dchq.io/landing/products.html#/library?org=DCHQ>
 
 
 **Table of Contents**  
@@ -369,6 +370,8 @@ Here is a list of supported environment variable values:
  
 
 ### 3-Tier Java (Nginx – Tomcat – MySQL)
+
+[![Customize and Run](https://dl.dropboxusercontent.com/u/4090128/dchq-customize-and-run.png)](https://www.dchq.io/landing/products.html#/library?org=DCHQ&bl=2c91801a510732e101514af61cd74c28)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 LB:
