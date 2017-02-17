@@ -1,5 +1,5 @@
 <figure>
-<img src="http://ww1.prweb.com/prfiles/2015/07/21/12907174/gI_146921_dchq-logo.png" alt="" />
+<img src="http://hypergrid.com/wp-content/uploads/2016/07/HyperGridLogo-horiz-600px.png" alt="" />
 </figure>
 
 
