@@ -1,5 +1,5 @@
 <figure>
-<img src="http://hypergrid.com/wp-content/uploads/2016/07/HyperGridLogo-horiz-600px.png" alt="" />
+<img src="http://www.hypergrid.com/wp-content/themes/hypergrid/img/logo.png" alt="" />
 </figure>
 
 
